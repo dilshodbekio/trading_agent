@@ -1,0 +1,5 @@
+langgraph
+langchain
+langchain-google-genai
+python-dotenv
+aiogram>=3.34,<4
